@@ -1,0 +1,26 @@
+body{
+	background-image: url("images/motian1.jpg");
+	background-size: cover;
+	width: 100vw;
+	height: 100vh; 	  
+}
+div {
+	width: 200px;
+	height: 100%;
+	margin: auto;
+	background-image: url("images/ice.jpg");
+	background-repeat:no-repeat;
+    background-size:cover;
+    text-align: center;
+
+}
+label{
+	display: block;
+	color: cyan;
+}
+a{
+	color: ghostwhite;
+}
+a:hover{
+	color: red;
+}
